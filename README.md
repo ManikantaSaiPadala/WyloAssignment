@@ -40,11 +40,11 @@ You may also see any lint errors in the console.
 
 To deploy the application, follow these steps:
 
-# Build the project:
+1. Build the project:
 
   npm run build
   
-  Deploy the build folder to your preferred hosting service (e.g., Netlify, Vercel).
+2. Deploy the build folder to your preferred hosting service (e.g., Netlify, Vercel).
 
 ### License
 This project is licensed under the MIT License.
